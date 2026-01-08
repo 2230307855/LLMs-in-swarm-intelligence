@@ -73,8 +73,46 @@ The experimental data for this work has been uploaded to Hugging Face and will b
 
  ![06](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_methods/06.png?raw=true)
 
-### 2.6 Comparison of Training and Running time for Different Methods 
+### 2.6 Comparison of Training and Running time for Different Methods
 
 > Those marked with an asterisk (\*) indicate the use of our proposed method to address the lack of foresight caused by local observations.
 
  ![07](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_methods/07.png?raw=true)
+
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+
+<figure style="text-align: center; width: 48%;">
+<img src="[https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_20×20.gif?raw=true](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_20%C3%9720.gif?raw=true)" alt="场景尺寸 20×20" style="width: 100%; border-radius: 8px;" />
+<figcaption><strong>场景尺寸：20×20</strong></figcaption>
+</figure>
+
+<figure style="text-align: center; width: 48%;">
+<img src="[https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_40×40.gif?raw=true](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_40%C3%9740.gif?raw=true)" alt="场景尺寸 40×40" style="width: 100%; border-radius: 8px;" />
+<figcaption><strong>场景尺寸：40×40</strong></figcaption>
+</figure>
+
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+
+<figure style="text-align: center; width: 48%;">
+<img src="[https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_60×60.gif?raw=true](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_60%C3%9760.gif?raw=true)" alt="场景尺寸 60×60" style="width: 100%; border-radius: 8px;" />
+<figcaption><strong>场景尺寸：60×60</strong></figcaption>
+</figure>
+
+<figure style="text-align: center; width: 48%;">
+<img src="[https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_80×80.gif?raw=true](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_80%C3%9780.gif?raw=true)" alt="场景尺寸 80×80" style="width: 100%; border-radius: 8px;" />
+<figcaption><strong>场景尺寸：80×80</strong></figcaption>
+</figure>
+
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+
+<figure style="text-align: center; width: 48%;">
+<img src="[https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_100×100.gif?raw=true](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_100%C3%97100.gif?raw=true)" alt="场景尺寸 100×100" style="width: 100%; border-radius: 8px;" />
+<figcaption><strong>场景尺寸：100×100</strong></figcaption>
+</figure>
+
+</div>
