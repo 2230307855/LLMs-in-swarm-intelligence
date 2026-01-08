@@ -25,4 +25,19 @@ The experimental data for this work has been uploaded to Hugging Face and will b
 
 ## 2.experimental results
 
+### 
+
+### 2.1 The comparison of path planning performance of LLM models
+
+### 2.2 The comparison of path planning performance of different methods
+
+### 2.3 The performance comparison of different methods in dynamic scenarios
+
+### 2.4 The performance of the proposed method in random scenes of different sizes
+
+### 2.5 The comparison of local movement decision-making performance across different methods
+
+### 2.6 Comparison of Training and Running time for Different Methods
+
+
 
