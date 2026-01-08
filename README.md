@@ -25,9 +25,36 @@ The experimental data for this work has been uploaded to Hugging Face and will b
 
 ## 2.experimental results
 
-### 
+**==The swarm intelligence path planning performance of our proposed method under different scene sizes (LLaMA 3.2-3B-4bit)==**
+
+* Scene size: 20m × 20m
+
+ ![20m](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_20%C3%9720.gif?raw=true)
+
+* Scene size: 40m × 40m
+
+ ![40m](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_40%C3%9740.gif?raw=true)
+
+* Scene size: 60m × 60m
+
+ ![60m](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_60%C3%9760.gif?raw=true)
+
+* Scene size: 80m × 80m
+
+ ![80m](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_80%C3%9780.gif?raw=true)
+
+* Scene size: 100m × 100m
+
+ ![100m](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_100%C3%97100.gif?raw=true)
 
 ### 2.1 The comparison of path planning performance of LLM models
+
+#### 2.1.1 The comparison of path planning performance of different LLMs
+
+ ![01](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/LLM_compare/1.png?raw=true)
+
+#### 2.1.2 The comparison of path planning performance of different SLMs
+
 
 ### 2.2 The comparison of path planning performance of different methods
 
@@ -38,6 +65,3 @@ The experimental data for this work has been uploaded to Hugging Face and will b
 ### 2.5 The comparison of local movement decision-making performance across different methods
 
 ### 2.6 Comparison of Training and Running time for Different Methods
-
-
-
