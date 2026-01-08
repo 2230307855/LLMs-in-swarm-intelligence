@@ -1,6 +1,6 @@
 # LLMs in swarm intelligence (UAV swarm)
 
-## 1. Paper Name：Cloud-Edge Collaborative UAV Swarm Path Planning With Deep-thinking LLM Fine-Tuning
+## 1. Paper Name：__Cloud-Edge Collaborative UAV Swarm Path Planning With Deep-thinking LLM Fine-Tuning__
 
 ### 1.1 Brief Introduction
 
@@ -51,17 +51,30 @@ The experimental data for this work has been uploaded to Hugging Face and will b
 
 #### 2.1.1 The comparison of path planning performance of different LLMs
 
- ![01](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/LLM_compare/1.png?raw=true)
+ ![01](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/LLM_compare/01.png?raw=true)
 
 #### 2.1.2 The comparison of path planning performance of different SLMs
 
+ ![02](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/LLM_compare/02.png?raw=true)
 
 ### 2.2 The comparison of path planning performance of different methods
 
-### 2.3 The performance comparison of different methods in dynamic scenarios
+ ![03](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_methods/03.png?raw=true)
+
+### 2.3 The performance comparison of different methods in dynamic scenarios (The evaluation of continual learning capability)
+
+ ![04](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_methods/04.png?raw=true)
 
 ### 2.4 The performance of the proposed method in random scenes of different sizes
 
-### 2.5 The comparison of local movement decision-making performance across different methods
+ ![05](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_scene_size/05.png?raw=true)
 
-### 2.6 Comparison of Training and Running time for Different Methods
+### 2.5 The comparison of local movement decision-making performance across different methods (The comparison of decision-making capacity)
+
+ ![06](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_methods/06.png?raw=true)
+
+### 2.6 Comparison of Training and Running time for Different Methods 
+
+> Those marked with an asterisk (\*) indicate the use of our proposed method to address the lack of foresight caused by local observations.
+
+ ![07](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_methods/07.png?raw=true)
