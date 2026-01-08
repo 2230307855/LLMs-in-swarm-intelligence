@@ -1,6 +1,8 @@
 # LLMs in swarm intelligence (UAV swarm)
 
-### 论文名称：Cloud-Edge Collaborative UAV Swarm Path Planning With Deep-thinking LLM Fine-Tuning
+## 1. Paper Name：Cloud-Edge Collaborative UAV Swarm Path Planning With Deep-thinking LLM Fine-Tuning
+
+### 1.1 Brief Introduction
 
 In this work, we propose a UAV swarm path planning framework based on LLM deep thinking fine-tuning under a cloud-edge collaborative architecture, used to guide UAVs in completing path planning tasks using local perception information.
 
@@ -8,8 +10,19 @@ In our framework, large LLMs (LLMs) are deployed on the cloud and receive all pe
 
  ![Fig. 1. LLM-Based UAV Swarm Path Planning Framework.](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/architecture/01.png?raw=true)**Fig. 1 LLM-Based UAV Swarm Path Planning Framework.**
 
-Unlike previous methods, we do not use global information during training. Meanwhile, we propose corresponding methods to address the lack of foresight caused by UAVs using only local perception information.
+### 1.2 Highlights
+
+* A significant exploration of LLM-based swarm intelligence.
+* Unlike previous methods, we do not use global information during training.
+* We propose corresponding methods to address the lack of foresight caused by UAVs using only local perception information.
+* We propose a continual online learning mechanism for LLMs.
+
+### 1.3 Open Plan
 
 The experimental data for this work has been uploaded to Hugging Face and will be made publicly available along with the code immediately upon paper acceptance.
 
-The following is the presentation of experimental results.
+
+## 2.experimental results
+
+
+
