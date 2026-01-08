@@ -21,8 +21,8 @@ In our framework, large LLMs (LLMs) are deployed on the cloud and receive all pe
 
 The experimental data for this work has been uploaded to Hugging Face and will be made publicly available along with the code immediately upon paper acceptance.
 
+ ![dataset](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/dataset/my_dataset.png?raw=true)
 
 ## 2.experimental results
-
 
 
