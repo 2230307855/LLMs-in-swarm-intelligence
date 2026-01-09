@@ -51,6 +51,9 @@ The experimental data for this work has been uploaded to Hugging Face and will b
 
  ![08](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_methods/08.gif?raw=true)
 
+**==Training curve==**
+
+ ![09](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_methods/09.png?raw=true)
 
 ### 2.1 The comparison of path planning performance of LLM models
 
