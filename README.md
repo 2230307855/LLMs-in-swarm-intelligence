@@ -47,6 +47,11 @@ The experimental data for this work has been uploaded to Hugging Face and will b
 
  ![100m](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/res/change_scene_size_res/size_100%C3%97100.gif?raw=true)
 
+**==Visual Comparison of different Methods==**
+
+ ![08](https://github.com/2230307855/LLMs-in-swarm-intelligence/blob/main/markdown_files/figure/different_methods/08.gif?raw=true)
+
+
 ### 2.1 The comparison of path planning performance of LLM models
 
 #### 2.1.1 The comparison of path planning performance of different LLMs
